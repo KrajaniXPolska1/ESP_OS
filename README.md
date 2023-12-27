@@ -5,7 +5,7 @@ if you want to have all features working you need to pin up your oled display to
 
 changelog
 
-version 0.1
+version 0.1 \n
 added logo command.
 added about command
 added author command
