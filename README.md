@@ -12,6 +12,7 @@ Download ESP OS from [here](https://github.com/KrajaniXPolska1/ESP_OS/releases).
 - working startup image
 - some commands
 - working internet connection
+
   
 # Commands
 - blink command: blink a built in led
