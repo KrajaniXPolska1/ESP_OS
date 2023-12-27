@@ -11,20 +11,32 @@ Download ESP OS from [here](https://github.com/KrajaniXPolska1/ESP_OS/releases).
 
 - working startup image
 - some commands
-
+- working internet connection
+- 
 # Commands
 - blink command: blink a built in led
 - about command: show simple info about **ESP OS**
 - author command: show simple info about author os **ESP OS**
 - logo command: show logo of **ESP OS**
 - random number command: generates random number in the range from 1 to 99
+- time commnad: show actual time
+- ip command: show your ip in serial monitor 
 
 # Installation
 to install **ESP OS** on the your ESP device you need to add esp boards to arduino ide.
 
-after that just load the .ino file and upload to your esp device.
+- load the .ino file to arduino ide
+- add your network name and your network password
+- set your time zone(type your time zone in seconds)
+- upload ESP OS to your esp board
 
 # Changelog 
+
+## 0.2
+- added internet connection
+- added real time clock
+- recreated ESP OS logo
+
 ## 0.1
 - added about command
 - added author command
