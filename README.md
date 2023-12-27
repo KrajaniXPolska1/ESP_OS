@@ -20,7 +20,7 @@ Download ESP OS from [here](https://github.com/KrajaniXPolska1/ESP_OS/releases).
 - _author_ command: show simple info about author os **ESP OS**
 - _logo_ command: show logo of **ESP OS**
 - _random number_ command: generates random number in the range from 1 to 99
-- _time_ commnad: show actual time
+- _time_ commnand: show actual time
 - _ip_ command: show your ip in serial monitor 
 
 # Installation
