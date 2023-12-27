@@ -13,12 +13,12 @@ version 0.1
 
 
 
-added logo command.
+- added logo command.
 
-added about command
+- added about command
 
-added author command
+- added author command
 
-added random number command
+- added random number command
 
-added blink command
+- added blink command
