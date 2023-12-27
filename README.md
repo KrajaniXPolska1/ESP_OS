@@ -8,7 +8,6 @@ To unleash the full capabilities of this operating system, connect the [Oled dis
 
 - working startup image
 - some commands
-- you can pin up everything to look cool
 
 # Commands
 - blink command: blink a built in led
