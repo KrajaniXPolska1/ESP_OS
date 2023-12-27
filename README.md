@@ -5,9 +5,14 @@ if you want to have all features working you need to pin up your oled display to
 
 changelog
 
-version 0.1 \n
+version 0.1 
+
 added logo command.
+
 added about command
+
 added author command
+
 added random number command
+
 added blink command
