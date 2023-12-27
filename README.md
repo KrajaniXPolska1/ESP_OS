@@ -40,10 +40,12 @@ to install **ESP OS** on the your ESP device you need to add esp boards to ardui
 - added internet connection
 - added real time clock
 - recreated ESP OS logo
+- added _time_ command
+- added _ip_ command
 
 ## 0.1
-- added about command
-- added author command
-- added blink command
-- added random number command
-- added logo command
+- added _about_ command
+- added _author_ command
+- added _blink_ command
+- added _random number_ command
+- added _logo_ command
