@@ -1,24 +1,26 @@
-# ESP_OS 
-ESP_OS is an easy and unfinished something like Operating system for ESP8266 NodeMCU v2.
+# ESP OS
+## The first ever Operating system for your ESP device
 
-if you want to have all features working you need to pin up your oled display to your ESP.
+ESP OS is first(but not least) Operating system for ESP8266 NodeMCu v2.
+To unleash the full capabilities of this operating system, connect the [Oled display](https://abc-rc.pl/pl/products/wyswietlacz-oled-0-96-128x64-na-i2c-ssd1306-bialy-12052.html) to your ESP device.
 
+## Features
 
+- working startup image
+- some commands
+- you can pin up everything to look cool
 
+# Commands
+- blink command: blink a built in led
+- about command: show simple info about **ESP OS**
+- author command: show simple info about author os **ESP OS**
+- logo command: show logo of **ESP OS**
+- random number command: generates random number in the range from 1 to 99
 
-changelog
-
-
- version 0.1 
-
-
-
-- added logo command.
-
+# Changelog 
+## 0.1
 - added about command
-
 - added author command
-
-- added random number command
-
 - added blink command
+- added random number command
+- added logo command
