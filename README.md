@@ -15,13 +15,13 @@ Download ESP OS from [here](https://github.com/KrajaniXPolska1/ESP_OS/releases).
 
   
 # Commands
-- blink command: blink a built in led
-- about command: show simple info about **ESP OS**
-- author command: show simple info about author os **ESP OS**
-- logo command: show logo of **ESP OS**
-- random number command: generates random number in the range from 1 to 99
-- time commnad: show actual time
-- ip command: show your ip in serial monitor 
+- _blink_ command: blink a built in led
+- _about_ command: show simple info about **ESP OS**
+- _author_ command: show simple info about author os **ESP OS**
+- _logo_ command: show logo of **ESP OS**
+- _random number_ command: generates random number in the range from 1 to 99
+- _time_ commnad: show actual time
+- _ip_ command: show your ip in serial monitor 
 
 # Installation
 to install **ESP OS** on the your ESP device you need to add esp boards to arduino ide.
