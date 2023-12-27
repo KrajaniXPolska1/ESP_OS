@@ -33,6 +33,9 @@ to install **ESP OS** on the your ESP device you need to add esp boards to ardui
 
 # Changelog 
 
+## 0.2.1
+- changed position of lower bar in the ESP OS logo what shows in the _about_ and _author_ commands
+
 ## 0.2
 - added internet connection
 - added real time clock
