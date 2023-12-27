@@ -16,6 +16,10 @@ To unleash the full capabilities of this operating system, connect the [Oled dis
 - logo command: show logo of **ESP OS**
 - random number command: generates random number in the range from 1 to 99
 
+# Installation
+to install **ESP OS** on the your ESP device you need to add esp boards to arduino ide.
+after that just load the .ino file nad upload to your esp device.
+
 # Changelog 
 ## 0.1
 - added about command
