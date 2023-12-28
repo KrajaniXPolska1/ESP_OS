@@ -9,7 +9,7 @@ Download ESP OS from [here](https://github.com/KrajaniXPolska1/ESP_OS/releases).
 
 ## Features
 
-- working startup image
+- working startup proccess
 - some commands
 - working internet connection
 
@@ -21,7 +21,9 @@ Download ESP OS from [here](https://github.com/KrajaniXPolska1/ESP_OS/releases).
 - _logo_ command: show logo of **ESP OS**
 - _random number_ command: generates random number in the range from 1 to 99
 - _time_ commnand: show actual time
-- _ip_ command: show your ip in serial monitor 
+- _ip_ command: show your ip in serial monitor
+- _weather_ command: shows actual weather
+- _clear_ command: clear your display
 
 # Installation
 to install **ESP OS** on the your ESP device you need to add esp boards to arduino ide.
@@ -29,9 +31,16 @@ to install **ESP OS** on the your ESP device you need to add esp boards to ardui
 - load the .ino file to arduino ide
 - add your network name and your network password
 - set your time zone(type your time zone in seconds)
+- set your city name and these country letters
 - upload ESP OS to your esp board
 
 # Changelog 
+
+## 0.3
+- added _weather_ command
+- changed look of _time_ _random number_ commands
+- added startup process
+- added _clear_ command
 
 ## 0.2.1
 - changed position of lower bar in the ESP OS logo what shows in the _about_ and _author_ commands
