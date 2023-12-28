@@ -38,7 +38,7 @@ to install **ESP OS** on the your ESP device you need to add esp boards to ardui
 
 ## 0.3
 - added _weather_ command
-- changed look of _time_ _random number_ commands
+- changed look of _time_ and _random number_ commands
 - added startup process
 - added _clear_ command
 
